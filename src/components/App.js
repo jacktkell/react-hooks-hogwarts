@@ -14,3 +14,8 @@ function App() {
 }
 
 export default App;
+
+
+
+
+// When the user clicks on the hog tile, display the other details about the hog (its specialty, weight, greased, and highest medal achieved)
